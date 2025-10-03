@@ -1,10 +1,12 @@
+<img width="1920" height="1080" alt="Untitled-1" src="https://github.com/user-attachments/assets/7b36029c-3850-4cfa-ace8-ef5afdfb6608" />
+
+
 ## 🚔Teedle-AdvancedPitTraining 🚔 ##
 An Advanced **AI PIT Training System** built for serious law enforcement roleplay servers. 
 
 This resource will help you in training your officers on pits, and grapplers when chasing suspects.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## ✨ Features
 - 🚘 **AI Vehicle & Driver Spawning** – spawn configurable AI vehicles with a driver.  
 - 🎯 **PIT Maneuver Detection** – AI stops & surrenders when successfully pitted.  
@@ -64,4 +66,5 @@ Violations may result in **license termination** and CFX asset portal reporting.
 
 ## 🛟 Support
 Need help? Have suggestions? Want changelogs?  
+
 - 💬 Join the official **Discord**: [https://discord.gg/34g6BGnfEa](https://discord.gg/34g6BGnfEa) 
